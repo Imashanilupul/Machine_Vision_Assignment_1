@@ -1,0 +1,17 @@
+
+# Virtual Environment
+venv/
+.venv/
+
+# Images folder
+/Images/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environment variables
+.env
